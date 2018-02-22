@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\bryso\onedrive\documents\visual studio 2015\projects\cs 2420\program 2 linked lists\program 2 linked lists\source.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bryso\onedrive\documents\visual studio 2015\projects\cs 2420\program 2 linked lists\program 2 linked lists\header.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bryso\onedrive\documents\visual studio 2015\projects\cs 2420\program 2 linked lists\program 2 linked lists\sing_list.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bryso\onedrive\documents\visual studio 2015\projects\cs 2420\program 2 linked lists\program 2 linked lists\header.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bryso\onedrive\documents\visual studio 2015\projects\cs 2420\program 2 linked lists\program 2 linked lists\doub_list.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Program 2 Linked Lists.vcxproj -> C:\Users\bryso\OneDrive\Documents\Visual Studio 2015\Projects\CS 2420\Program 2 Linked Lists\Debug\Program 2 Linked Lists.exe
+  Program 2 Linked Lists.vcxproj -> C:\Users\bryso\OneDrive\Documents\Visual Studio 2015\Projects\CS 2420\Program 2 Linked Lists\Debug\Program 2 Linked Lists.pdb (Partial PDB)
