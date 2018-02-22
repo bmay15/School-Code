@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\bryso\onedrive\documents\visual studio 2015\projects\cs 2420\program 7 - graph\program 7 - graph\source.cpp(123): warning C4715: 'cityIndex': not all control paths return a value
+c:\users\bryso\onedrive\documents\visual studio 2015\projects\cs 2420\program 7 - graph\program 7 - graph\source.cpp(98): warning C4715: 'insert': not all control paths return a value
+  Program 7 - Graph.vcxproj -> C:\Users\bryso\OneDrive\Documents\Visual Studio 2015\Projects\CS 2420\Program 7 - Graph\Debug\Program 7 - Graph.exe
+  Program 7 - Graph.vcxproj -> C:\Users\bryso\OneDrive\Documents\Visual Studio 2015\Projects\CS 2420\Program 7 - Graph\Debug\Program 7 - Graph.pdb (Partial PDB)
