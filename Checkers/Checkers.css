@@ -1,0 +1,51 @@
+body{
+    background: #c0ebf7;
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0px;
+    width: 85px;
+    height: 85px;
+}
+.BlueCell {
+    background: #242e9e;
+}
+.GreenCell{
+    background: #35dd38;
+}
+
+/* To add a checker piece to the board, insert a <div> into the <td> for the desired cell
+    with either BlkCircle or GryCircle as a class. */
+.BlkCircle{
+    margin: auto;
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background: black;
+    /*King font*/
+    color: #ffffff;
+    font-size: 4em;
+    text-align: center;
+}
+.GryCircle{
+    margin: auto;
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background: grey;
+    /*King font*/
+    color: #000000;
+    font-size: 4em;
+    text-align: center;
+}
+li{
+    width: 50%;
+
+}
+

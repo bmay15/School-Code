@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="Checkers.css">
+    <title>Checkers Game Description</title>
+</head>
+<body>
+    <h1>The classic game of Checkers!</h1>
+    <h2>Objective:</h2>
+    <p>To eliminate ALL enemy pieces from the board!</p>
+    <img src="CheckerBoard.jpg" alt="A checker board">
+
+    <h2>How to play:</h2>
+    <ul>
+        <h3>General Setup</h3>
+            <li>Each player starts with 12 pieces</li>
+            <li>Players take turns "hot seat" style.</li>
+            <li>Once a player makes a single move, that player's turn is over.</li>
+        <h3>Each Turn</h3>
+            <li>The player whose turn it is may move one piece forward diagonally one space
+                (if that space is unoccupied).</li>
+            <li>Pieces may only move forward, unless they are "Kings" (to be discussed later).</li>
+            <li>If a player's piece has an opposing player's piece as a diagonal neighbor, AND the space beyond
+                the opposing player's piece is open, that player may "jump" the opposing player's piece, removing
+                it from the game.</li>
+            <li>If after a jump is made, another jump is immediately possible, the second jump must be made, as do
+                all subsequent jumps.</li>
+        <h3>Kings</h3>
+            <li>If a player's piece traverses the entire board and reaches the row nearest their opponent
+                (referred to as the "King Row") the piece becomes a King.</li>
+            <li>Unlike Men (pieces that are not Kings), Kings can move both forward AND backward, although they can still
+             only move one space, and they must move diagonally.</li>
+            <li>Special Case: If a jump causes a Man to land on the King Row, and another jump is immediately possible,
+             the second jump is not executed.  The Man becomes a King, remains on the King Row, and the turn is over.</li>
+    </ul>
+
+    <h2>The End</h2>
+    <p>Once either player has no more pieces remaining on the board, OR is unable to make any sort of move,
+        that player loses the game.</p>
+    <a href="http://7is7.com/software/games/checkers/rules-en-us.html" target="_blank">
+        Click here for more in-depth rules and regulations!</a>
+    <br>
+    <a href="Checkers.html" target="_blank">Click here to play the game!</a>
+
+
+</body>
+<script src="Model.js"></script>
+</html>

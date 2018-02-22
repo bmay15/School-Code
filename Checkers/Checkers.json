@@ -1,0 +1,10 @@
+{
+  "BlackChip" : "<div class=BlkCircle></div>",
+
+  "GryChip" : "<div class=GryCircle></div>",
+
+  "rowNum" : "2",
+
+  "colNum" : "3"
+
+}
