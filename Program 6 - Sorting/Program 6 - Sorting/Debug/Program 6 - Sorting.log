@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\bryso\onedrive\documents\visual studio 2015\projects\cs 2420\program 6 - sorting\program 6 - sorting\source.cpp(222): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bryso\onedrive\documents\visual studio 2015\projects\cs 2420\program 6 - sorting\program 6 - sorting\source.cpp(263): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bryso\onedrive\documents\visual studio 2015\projects\cs 2420\program 6 - sorting\program 6 - sorting\source.cpp(310): warning C4101: 'n2': unreferenced local variable
+c:\users\bryso\onedrive\documents\visual studio 2015\projects\cs 2420\program 6 - sorting\program 6 - sorting\source.cpp(309): warning C4101: 'n1': unreferenced local variable
+  Program 6 - Sorting.vcxproj -> C:\Users\bryso\OneDrive\Documents\Visual Studio 2015\Projects\CS 2420\Program 6 - Sorting\Debug\Program 6 - Sorting.exe
+  Program 6 - Sorting.vcxproj -> C:\Users\bryso\OneDrive\Documents\Visual Studio 2015\Projects\CS 2420\Program 6 - Sorting\Debug\Program 6 - Sorting.pdb (Partial PDB)
